@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="">
 </p>
 
-- 🔭 I’m currently working on **System Design**
+- 🔭 I’m currently working on **Cryptography and Information security**
 
 - 🌱 I’m currently learning **Machine Learning**
 
