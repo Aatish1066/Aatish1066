@@ -12,7 +12,7 @@
 <p align="center">
   <strong>Email:</strong> <a href="mailto:aatisharma715@gmail.com">aatisharma715@gmail.com</a><br>
   <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/aatish-sharma-6665071b9">linkedin.com/in/aatish-sharma-6665071b9</a><br>
-  <strong>Portfolio:</strong> <a href="[https://github.com/Aatish1066](https://aatish1066.github.io/)">github.com/Aatish1066</a>
+  <strong>Portfolio:</strong> <a href="https://aatish1066.github.io/">github.com/Aatish1066</a>
 </p>
 
 </p>
