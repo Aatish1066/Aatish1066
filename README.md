@@ -2,7 +2,7 @@
 <h3 align="center">Infosec practitioner </h3>
 
 - 🔭 I’m currently working on **Cryptography and Information Security**
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Defensive Security Fundamentals and Practice**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
