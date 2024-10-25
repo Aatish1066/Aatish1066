@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aatish</h1>
-<h3 align="center">Infosec Master's Student</h3>
+<h3 align="center">Infosec practitioner </h3>
 
 - 🔭 I’m currently working on **Cryptography and Information Security**
 - 🌱 I’m currently learning **Machine Learning**
