@@ -1,12 +1,24 @@
 <h1 align="center">Hi 👋, I'm Aatish</h1>
-<h3 align="center">Graduate In Information Technology and Post Graduate student in Computer Science and Information Security</h3>
+<h3 align="center">Infosec Master's Student</h3>
 
-- 🔭 I’m currently working on **Information Security and Related Concepts**
-- 🌱 I’m currently learning **Machine Learning and Defensive Security Concepts along with practice**
+- 🔭 I’m currently working on **Cryptography and Information Security**
+- 🌱 I’m currently learning **Machine Learning**
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  Interested in collaborating or just want to say hello? Feel free to reach out!
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
+  <strong>Email:</strong> <a href="mailto:aatisharma715@gmail.com">aatisharma715@gmail.com</a><br>
+  <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/aatish-sharma-6665071b9">linkedin.com/in/aatish-sharma-6665071b9</a><br>
+  <strong>Portfolio:</strong> <a href="[https://github.com/Aatish1066](https://aatish1066.github.io/)">github.com/Aatish1066</a>
+</p>
+
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
@@ -36,5 +48,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aatish1066" alt="Aatish1066">
 </p>
-
-
